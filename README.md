@@ -21,13 +21,15 @@ You don't necessarily have to be located in Tokyo to join MLT. We provide online
 **MLT Core Team:** The MLT Core Team currently consists of 10 volunteer members in Tokyo: 8 ML Engineers/Researchers, 1 Roboticist, 1 Web Dev. We are in charge of technical workshops, paper readings, online resources, working sessions, study groups and building specific ML projects. We are currently looking to expand the core team in the following areas:
 
 - Operations
-- Strategic Partnerships
+- Partnerships
 - Social Media & Community Management
 - Engineering: Machine Learning, Full Stack SWE, Front-end Web Dev/UI/UX
 
 If you are interested in Artificial Intelligence and would like to gain professional experience, grow your skills and contribute to the ML community at the same time please get in touch, we'd be more than happy to share more info. 
 
-[**Open MLT Core Team Positions**](https://docs.google.com/document/d/1yG6F8ilfikMpG30an0EbIoAWYDVBE49QN-inak_PlyM/edit?usp=sharing)
+- [**Open MLT Core Team Positions**](https://docs.google.com/document/d/1yG6F8ilfikMpG30an0EbIoAWYDVBE49QN-inak_PlyM/edit?usp=sharing)
+
+- [**MLT Engineering**](https://goo.gl/forms/6QYTyFZxcxTwaGWk2)
 
 ## Code of Conduct
 
@@ -38,5 +40,3 @@ We are committed to a supportive study and work environment for our community me
 We aim to create a community culture that is collaborative, inclusive and empowering and therefore free of intimidation, bias and discrimination. Thus, we do not tolerate harassment and discrimination of members and participants in any form. 
 
 This code of conduct applies to all MLT spaces and events, online and offline, including meetups, Twitter, Slack, Discourse, FB, mailing lists. Anyone who violates this code of conduct may be excluded or expelled from these spaces and events at the discretion of the Founding Members.
-
-
