@@ -16,7 +16,7 @@ MLT is a non-profit group of Machine Learning Engineers and Researchers and a co
 - Slack: https://machinelearningtokyo.slack.com/ (community chat)
 - Discourse: http://discuss.mltokyo.ai (sharing and archiving projects)
 
-You don't necessarily have to be located in Tokyo to join MLT. We provide online videos, code and resources on [YouTube](https://www.youtube.com/channel/UC88RC_4egFjV9jfjBHwDuvg) and [GitHub](https://github.com/Machine-Learning-Tokyo).
+You don't necessarily have to be located in Tokyo to join MLT. We provide online videos, code and resources on [YouTube](https://www.youtube.com/MLTOKYO) and [GitHub](https://github.com/Machine-Learning-Tokyo).
 
 **MLT Core Team:** The MLT Core Team currently consists of 10 volunteer members in Tokyo: 8 ML Engineers/Researchers, 1 Roboticist, 1 Web Dev. We are in charge of technical workshops, paper readings, online resources, working sessions, study groups and building specific ML projects. We are currently looking for volunteers in the following areas:
 
