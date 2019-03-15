@@ -20,10 +20,9 @@ You don't necessarily have to be located in Tokyo to join MLT. We provide online
 
 **MLT Core Team:** The MLT Core Team currently consists of 10 volunteer members in Tokyo: 8 ML Engineers/Researchers, 1 Roboticist, 1 Web Dev. We are in charge of technical workshops, paper readings, online resources, working sessions, study groups and building specific ML projects. We are currently looking for volunteers in the following areas:
 
-- Operations
-- Partnerships
-- Social Media
-- Engineering: Machine Learning, Full Stack SWE, Front-end Web Dev/UI/UX
+- Event Management and Operations
+- Digital Marketing and Social Media
+- Engineering: Machine Learning, Full Stack SWE, Front-end, Web Dev, UI/UX
 
 If you are interested in Artificial Intelligence and would like to gain professional experience, grow your skills and contribute to the ML community at the same time please get in touch, we'd be more than happy to share more info. 
 
