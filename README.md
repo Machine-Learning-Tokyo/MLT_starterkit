@@ -1,13 +1,11 @@
-<p align="left">
-  <img src="https://github.com/Machine-Learning-Tokyo/MLT_starterkit/blob/master/resources/MLT_logo.png" width="256">
-</p>
-
 # MLT Starter Kit
 
 ## Overview
 **Mission: Democratizing Machine Learning.**
 
-MLT is a non-profit group of Machine Learning Engineers and Researchers and a community of 2000 people in Tokyo, Japan. Our mission is to create, grow and sustain an inclusive, collaborative and engineering focused environment. We facilitate opportunities to study, teach and build Artificial Intelligence projects, including Machine Learning, Deep Learning and Data Science.
+MLT is a Tokyo-based non-profit organization of Machine Learning Engineers and Researchers and a community of 3000 people, dedicated to democratizing machine learning. 
+
+Our mission is to create, grow and sustain an inclusive, collaborative and engineering focused environment. We facilitate opportunities to study, teach and build Artificial Intelligence projects,  Machine Learning, Deep Learning and Data Science.
 
 ## How to join MLT
 **MLT Community Members:** Anyone can become part of the Machine Learning Tokyo community by joining one of our online platforms:
@@ -19,15 +17,10 @@ You don't necessarily have to be located in Tokyo to join MLT. We provide online
 
 **MLT Patron**: Become a MLT Patron and help us to keep MLT meetups inclusive and for free. https://www.patreon.com/MLTOKYO
 
-**MLT Core Team:** The MLT Core Team currently consists of 15 volunteer members in Tokyo. We are in charge of technical workshops, paper readings, online resources, working sessions, study groups and building specific ML projects. We are currently looking for volunteers in the following areas:
+**MLT Core Team:** The MLT Core Team currently consists of 15 volunteer members in Tokyo. We are in charge of technical workshops, paper readings, online resources, working sessions, study groups and building specific ML projects. 
 
-- Event Management and Operations
-- Digital Marketing and Social Media
-- Engineering: Machine Learning, Full Stack SWE, Front-end, Web Dev, UI/UX
+MLT is looking for contributors: Machine Learning, Full Stack SWE, Front-end, Web Dev and UI/UX. If you are interested in Artificial Intelligence and would like to gain professional experience, grow your skills and contribute to the ML community at the same time please get in touch, we'd be happy to share more info. 
 
-If you are interested in Artificial Intelligence and would like to gain professional experience, grow your skills and contribute to the ML community at the same time please get in touch, we'd be more than happy to share more info. 
-
-- [**Open MLT Core Team Positions**](https://docs.google.com/document/d/1yG6F8ilfikMpG30an0EbIoAWYDVBE49QN-inak_PlyM/edit?usp=sharing)
 
 - [**MLT Engineering**](https://goo.gl/forms/6QYTyFZxcxTwaGWk2)
 
