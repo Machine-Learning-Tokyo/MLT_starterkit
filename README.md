@@ -3,7 +3,7 @@
 ## Overview
 **Mission: Democratizing Machine Learning.**
 
-MLT is a Tokyo-based non-profit organization of Machine Learning Engineers and Researchers and a community of 3000 people, dedicated to democratizing machine learning. 
+MLT is a Tokyo-based nonprofit organization of Machine Learning Engineers and Researchers and a community of 3000 people, dedicated to democratizing machine learning. 
 
 Our mission is to create, grow and sustain an inclusive, collaborative and engineering focused environment. We facilitate opportunities to study, teach and build Artificial Intelligence projects,  Machine Learning, Deep Learning and Data Science.
 
@@ -28,7 +28,7 @@ MLT is looking for contributors: Machine Learning, Full Stack SWE, Front-end, We
 
 MLT promotes an inclusive environment that values integrity, openness and respect. 
 
-We are committed to a supportive study and work environment for our community members and the MLT core team, and to provide the opportunity to reach their fullest potential. 
+We are committed to a supportive study and work environment for our community members and the MLT core team, and to provide the opportunity for individuals to reach their fullest potential. 
 
 We aim to create a community culture that is collaborative, inclusive and empowering and therefore free of intimidation, bias and discrimination. Thus, we do not tolerate harassment and discrimination of members and participants in any form. 
 
