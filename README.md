@@ -24,6 +24,9 @@ MLT is looking for contributors: Machine Learning, Full Stack SWE, Front-end, We
 
 - [**MLT Engineering**](https://goo.gl/forms/6QYTyFZxcxTwaGWk2)
 
+**Want to organize hands-on ML and DL workshops in your city? Here are some lessons learned after 50+ MLT workshops:** [[Blog post]](https://medium.com/@machine.learning.tokyo/mlt-best-practices-how-to-organize-hands-on-deep-learning-workshops-and-paper-readings-f19a0733a454)
+
+
 ## Code of Conduct
 
 MLT promotes an inclusive environment that values integrity, openness and respect. 
