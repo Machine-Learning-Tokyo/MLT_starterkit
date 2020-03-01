@@ -9,7 +9,7 @@ MLT is an award-winning nonprofit 一般社団法人 dedicated to democratizing 
 **MLT Community Members:** Anyone can become part of the Machine Learning Tokyo community by joining one of our online platforms:
 
 - [Meetup](https://meetup.com/Machine-Learning-Tokyo/) (updates on workshops and events)
-- [Slack] (https://machinelearningtokyo.slack.com/)(community chat)
+- [Slack](https://machinelearningtokyo.slack.com/) (community chat)
 
 You don't necessarily have to be located in Tokyo to join MLT. We provide online videos, code and resources on [YouTube](https://www.youtube.com/MLTOKYO) and [GitHub](https://github.com/Machine-Learning-Tokyo).
 
