@@ -3,7 +3,7 @@
 ## Overview
 **Mission: Democratizing Machine Learning.**
 
-MLT is an award-winning nonprofit 一般社団法人 dedicated to democratizing Machine Learning through Open Education, Open Source and Open Science. MLT supports a research and engineering community of 4,500 members.
+MLT is an award-winning nonprofit 一般社団法人 dedicated to democratizing Machine Learning through open education, open source and open science. MLT supports a research and engineering community of 6,000 members.
 
 ## How to join MLT
 **MLT Community Members:** Anyone can become part of the Machine Learning Tokyo community by joining one of our online platforms:
