@@ -21,9 +21,8 @@ You don't necessarily have to be located in Tokyo to join MLT. We provide online
 
 - [**MLT Engineering**](https://goo.gl/forms/6QYTyFZxcxTwaGWk2)
 
-**Open Source contributions**: For most of our projects we use the [MIT license](https://en.wikipedia.org/wiki/MIT_License), unless otherwise stated. The copyright always belongs to the individual authors/contributors – we encourage you to add your names to the license when you work on a codebase, e.g. Copyright [2019] [Machine Learning Tokyo, Dimitris Katsios, Alisher Abdulkhaev, Mustafa Yagmur, Suzana Ilić].
-
-**Want to organize hands-on ML and DL workshops in your city? Here are some lessons learned after 70+ MLT workshops and sessions:** [[Blog post]](https://medium.com/@machine.learning.tokyo/mlt-best-practices-how-to-organize-hands-on-deep-learning-workshops-and-paper-readings-f19a0733a454)
+**Open Source contributions**: For most of our projects we use the [MIT license](https://en.wikipedia.org/wiki/MIT_License), unless otherwise stated. The copyright always belongs to the individual authors/contributors – we encourage you to add your names to the license when you work on a codebase, e.g. Copyright [2019] [Machine Learning Tokyo, Dimitris Katsios, Alisher Abdulkhaev, Mustafa Yagmur, Suzana Ilić]
+**Want to organize hands-on ML and DL workshops in your city? Here are some lessons learned after 150+ MLT workshops and sessions:** [[Blog post]](https://medium.com/@machine.learning.tokyo/mlt-best-practices-how-to-organize-hands-on-deep-learning-workshops-and-paper-readings-f19a0733a454)
 
 **Want to organize an MLT event in your city?** Reach out to suzana@mltokyo.ai to discuss more.
 
