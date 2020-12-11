@@ -41,6 +41,6 @@ We are committed to a supportive study and work environment for our community me
 
 We aim to create a community culture that is collaborative, inclusive and empowering and therefore free of intimidation, bias and discrimination. Thus, we do not tolerate harassment and discrimination of members and participants in any form. 
 
-MLT events are for community building and knowledge sharing. We politely ask that company representatives, recruiters and consultants looking to hire or sell their services do not come to MLT events.
+MLT events are for community building and knowledge sharing. We politely ask that company representatives, recruiters and consultants looking to hire or sell their services do not come to MLT events, and/or send private and public messages/posts through MLT communication channels.
 
-This code of conduct applies to all MLT spaces and events, online and offline, including meetups, Twitter, Slack, Discourse, FB, mailing lists. Anyone who violates this code of conduct may be excluded or expelled from these spaces and events at the discretion of the Founding Members.
+This code of conduct applies to all MLT spaces and events, online and offline, including meetups, Twitter, Slack, Discourse, FB, mailing lists. Anyone who violates this code of conduct may be excluded or expelled from these spaces and events at the discretion of the board of directors.
